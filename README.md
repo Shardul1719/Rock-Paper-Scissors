@@ -8,10 +8,15 @@ A fun and interactive Rock-Paper-Scissors game made with **HTML**, **CSS**, and 
 ## 📁 Project Structure  
 
 index.html # Main HTML structure
+
 style.css # Styling for the game interface
+
 script.js # Game logic and interactivity
+
 rock.png # Rock image
+
 paper.png # Paper image
+
 scissors.png # Scissors image
 
 ## 🧠 How to Play  
