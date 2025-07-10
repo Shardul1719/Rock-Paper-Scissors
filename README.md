@@ -6,13 +6,13 @@ A fun and interactive Rock-Paper-Scissors game made with **HTML**, **CSS**, and 
 *(Replace `#` with GitHub Pages link if deployed)*
 
 ## 📁 Project Structure  
-game/
-├── index.html # Main HTML structure
-├── style.css # Styling for the game interface
-├── script.js # Game logic and interactivity
-├── rock.png # Rock image
-├── paper.png # Paper image
-└── scissors.png # Scissors image
+
+index.html # Main HTML structure
+style.css # Styling for the game interface
+script.js # Game logic and interactivity
+rock.png # Rock image
+paper.png # Paper image
+scissors.png # Scissors image
 
 ## 🧠 How to Play  
 1. Choose between **Rock**, **Paper**, or **Scissors** by clicking the images.  
